@@ -2,4 +2,5 @@
     <string name="app_name">Meus Gastos</string>
     <string name="edt_expense_description">Descrição</string>
     <string name="edt_expense_amount">Valor</string>
+    <string name="btn_salvar">Salvar</string>
 </resources>
